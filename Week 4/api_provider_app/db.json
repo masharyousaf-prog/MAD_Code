@@ -1,0 +1,30 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "title": "sunt aut facere repellat provident",
+      "subtitle": "quia et suscipit suscipit recusandae consequuntur expedita et cum"
+    },
+    {
+      "id": "2",
+      "title": "qui est esse",
+      "subtitle": "est rerum tempore vitae sequi sint nihil reprehenderit dolor"
+    },
+    {
+      "id": "3",
+      "title": "ea molestias quasi exercitationem",
+      "subtitle": "et iusto sed quo iure voluptatem occaecati omnis eligendi"
+    },
+    {
+      "id": "4",
+      "title": "edit nesciunt quas odio",
+      "subtitle": "edit repudiandae veniam quaerat sunt sed alias aut fugiat sit"
+    },
+    {
+      "id": "5",
+      "title": "test",
+      "subtitle": "testing124"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
